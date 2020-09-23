@@ -1,0 +1,27 @@
+Compilers
+
+VB Code			VB6 sp4
+kira_cpu.dll		Lcc 3.1
+kira_ext.dll		VC++ 6 sp4
+cmos.exe		FirstBasic
+
+
+File Locations
+
+kira_cpu.dll		WinSys
+kira_ext.dll		WinSys
+cmos.exe		Program
+
+
+Extra.zip
+
+Provided for missing files and extra stuff.
+
+Required by kira_cpu.dll
+crtdll.dll		WinSys
+
+Required by kira
+zlib.dll		WinSys
+
+Not required predifined list of popups to kill
+wk.dat			Program
